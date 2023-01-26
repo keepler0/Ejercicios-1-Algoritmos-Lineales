@@ -1,0 +1,28 @@
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio7.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio7\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio7.genruntimeconfig.cache

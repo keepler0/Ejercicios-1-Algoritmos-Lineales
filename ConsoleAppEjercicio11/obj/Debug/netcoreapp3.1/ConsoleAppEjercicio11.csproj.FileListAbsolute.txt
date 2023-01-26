@@ -1,0 +1,28 @@
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio11.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Algoritmos Lineales\ConsoleAppEjercicio11\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio11.genruntimeconfig.cache

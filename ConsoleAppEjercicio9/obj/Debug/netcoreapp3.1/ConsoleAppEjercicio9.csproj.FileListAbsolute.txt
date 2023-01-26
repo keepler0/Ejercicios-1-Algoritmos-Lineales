@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio9.exe
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio9.deps.json
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio9.runtimeconfig.json
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio9.runtimeconfig.dev.json
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio9.dll
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio9.pdb
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.AssemblyInfo.cs
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.dll
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.pdb
+C:\Users\diego\source\repos\ConsoleAppEjercicio9\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio9.genruntimeconfig.cache
